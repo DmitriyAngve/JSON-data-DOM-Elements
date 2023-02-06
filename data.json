@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Angve",
+    "status": true
+  },
+  {
+    "name": "Dmitriy",
+    "status": false
+  },
+  {
+    "name": "JavaScript",
+    "status": true
+  },
+  {
+    "name": "HTML5",
+    "status": true
+  },
+  {
+    "name": "CSS3",
+    "status": true
+  },
+  {
+    "name": "React18",
+    "status": true
+  }
+]
